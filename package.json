@@ -1,7 +1,7 @@
 {
   "name": "dashboard-snk",
   "version": "0.1.0",
-  "homepage": "http://farizrahmat1.github.io/sonik1",
+  "homepage": "https://farizrahmat1.github.io/test-deploy-sonik",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
